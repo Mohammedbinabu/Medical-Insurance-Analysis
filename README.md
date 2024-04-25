@@ -35,6 +35,11 @@ I have used machine learning techniques to identify patterns and create cluster 
 - Distribution of Charges vs Age Category for Smokers and Non-Smokers in region
 ## Statistical Analysis:
 - ANOVA test on independent variables.
+## Feature Engineering:
+- I have performed feature engineering based on body mass index to create a categorical column for weight condition.
+  Categorized weight condition on the basis of few BMI calculator Websites:
+  - [Reference](https://www.calculator.net/bmi-calculator.html)
+  
 ## Unsupervised Learning:
 - Performing Clustering Manually
 - K-Means Clustering
